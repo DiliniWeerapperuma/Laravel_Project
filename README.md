@@ -3,14 +3,14 @@
 
 First login the user or admin (Have the User Authentication)
 I create the,
-# Admin - 
+Admin - 
         Zone,     
         Region,
         Territory,
         Product,
         Purchase Order View,
 
-# User -
+User -
 Purchase Order Add,
 Purchase Order View
 
