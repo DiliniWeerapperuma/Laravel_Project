@@ -1,20 +1,18 @@
-<B> About My Project <b/>
+# ABOUT MY PROJECT
+# Project Name - SALE OF PRODUCT IN COUNTRY
 
+First login the user or admin (Have the User Authentication)
+I create the,
+Admin 
+        Zone     
+        Region
+        Territory
+        Product
+        Purchase Order View
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+User
+Purchase Order Add
+Purchase Order View
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
